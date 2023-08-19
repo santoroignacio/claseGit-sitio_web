@@ -1,4 +1,7 @@
-body label, input{
+body label{
     text-align: center;
     background-color: aqua;
+}
+input{
+    background-color: crimson;
 }
