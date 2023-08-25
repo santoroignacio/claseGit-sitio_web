@@ -5,3 +5,13 @@ body label{
 input{
     background-color: crimson;
 }
+
+ul{
+    display: flex;
+    justify-content: center;
+    /* text-decoration: none; */
+    list-style-type: none;
+    gap: 20px;
+    background-color: blueviolet;
+    color: whitesmoke;
+}
